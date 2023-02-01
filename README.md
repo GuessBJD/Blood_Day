@@ -11,4 +11,4 @@ Coursework group project of Programming Elective II (2). A simple web applicatio
 - Cancel appointment
 
 ## Presentation and Demonstration
-See [presentation slide]
+See [presentation slide](https://docs.google.com/presentation/d/1G0LH6VjJTWTn4tc9y-cMfzCFoDkaAlJ_/edit?usp=share_link&ouid=105629644712252421356&rtpof=true&sd=true)
